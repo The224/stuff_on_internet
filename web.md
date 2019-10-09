@@ -10,6 +10,18 @@
 - []()
 - []()
 
+## Personal
+
+- [Douglas Rogers](https://www.standingdreams.com/)
+- [Tiny Kitten](https://tinykitten.me/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## Design
 
 - [Eva Color AI](https://colors.eva.design/?ref=producthunt)
