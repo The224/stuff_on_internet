@@ -3,14 +3,14 @@
 ## Game
 
 - [Asciicker](http://asciicker.com/x13/)
-- []()
-- []()
+- [Deprogrammed](http://deprogrammed.org/)
+- [Rome](http://www.ro.me/)
 - []()
 
 ## Video
 
 - [KEVIN MCGLOUGHLIN](https://www.kevinmcgloughlin.com/hhhhh)
-- []()
+- [Ethicsfor Design](http://ethicsfordesign.com)
 - []()
 - []()
 
